@@ -5,7 +5,7 @@
 
 
 **WIP**
-La idea es que este repo se vaya llenando con lo que vayamos aprendiendo
+La idea es que este repo se vaya llenando con lo que vayamos aprendiendo y que hector me enseñe de ortografía
 
 
 **Clase 1**
